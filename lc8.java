@@ -20,7 +20,6 @@ public class lc8 {
                 index++;
             }
             return sign * (int)ns;
-            
         }
     }
 }
